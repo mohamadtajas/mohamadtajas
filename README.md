@@ -1,18 +1,235 @@
-# 💫 About Me:
-DevOps Engineer<br>
+<img src="assets/hero.svg" alt="Mohamad Taj Eddin Ashour — Senior Network Engineer / DevOps Engineer" width="100%" />
 
+<p align="center">
+  <a href="https://linkedin.com/in/taj-eddin-ashour"><code>linkedin</code></a>
+  &nbsp;·&nbsp;
+  <a href="https://x.com/tajeddin_ash"><code>x</code></a>
+  &nbsp;·&nbsp;
+  <a href="https://instagram.com/tajeddin_ash"><code>instagram</code></a>
+  &nbsp;·&nbsp;
+  <a href="mailto:tajeddin.eng@gmail.com"><code>mail</code></a>
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tajeddin_ash) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/taj-eddin-ashour) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/tajeddin_ash) 
+<br />
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-FFFFFF?&style=for-the-badge&logo=opentelemetry&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white) ![Ubiquiti](https://img.shields.io/badge/ubiquiti-%230559C9.svg?style=for-the-badge&logo=ubiquiti&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=mohamadtajas&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=mohamadtajas&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=mohamadtajas&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+```
+╔═══ // 01 ─ IDENTITY ════════════════════════════════════════════════════════╗
+```
 
----
-[![](https://komarev.com/ghpvc/?username=mohamadtajas&icon=0&color=0)](https://visitcount.itsvg.in)
+<table align="center" width="100%">
+<tr>
+<td width="38%" valign="top">
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```yaml
+handle      : @mohamadtajas
+located     : Aleppo · Syria
+timezone    : UTC+3
+languages   : ar · en · tr
+education   : B.Sc. Computer Eng.
+            : Hasan Kalyoncu, 2023
+status      : remote-friendly
+```
+
+</td>
+<td width="62%" valign="top">
+
+> Hybrid engineer at the intersection of **carrier-grade networking** and **modern container infrastructure**. A decade spent keeping ISP backbones online, now extending the same operational discipline into Linux, Nomad clusters, and cloud platforms.
+
+> Built for sites where the routing table and the deployment pipeline are part of the same problem.
+
+<sub>`focus // ISP routing · wireless backhaul · Nomad+Consul · OCI · Linux ops · CI/CD · observability`</sub>
+
+</td>
+</tr>
+</table>
+
+<br />
+
+```
+╔═══ // 02 ─ METRICS ═════════════════════════════════════════════════════════╗
+```
+
+<img src="assets/kpi.svg" alt="Tenure · Research · Deployments · Availability" width="100%" />
+
+<br />
+
+```
+╔═══ // 03 ─ TELEMETRY ═══════════════════════════════════════════════════════╗
+```
+
+<p align="center">
+  <img src="assets/snake.svg" alt="Contribution snake" width="100%" />
+</p>
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" align="center"><img src="assets/stats.svg" alt="GitHub stats" width="100%" /></td>
+<td width="50%" align="center"><img src="assets/streak.svg" alt="Streak" width="100%" /></td>
+</tr>
+<tr>
+<td colspan="2" align="center"><img src="assets/langs.svg" alt="Top languages" height="180" /></td>
+</tr>
+</table>
+
+<br />
+
+```
+╔═══ // 04 ─ STACK ═══════════════════════════════════════════════════════════╗
+```
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
+
+<sub>`╴╴╴╴╴╴ NETWORKING ╴╴╴╴╴╴`</sub>
+
+```
+mikrotik  ████████████████  expert
+cisco     █████████████░░░  advanced
+huawei    █████████████░░░  advanced
+ubiquiti  ██████████░░░░░░  proficient
+wireguard █████████████░░░  advanced
+```
+
+<sub>pppoe · vlan · qos · acl · stp/rstp · ip planning · wireless backhaul</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<sub>`╴╴╴╴╴╴ DEVOPS & INFRA ╴╴╴╴╴╴`</sub>
+
+```
+nomad     ████████████████  expert
+docker    █████████████░░░  advanced
+consul    █████████████░░░  advanced
+nginx     █████████████░░░  advanced
+k8s       ██████████░░░░░░  proficient
+actions   █████████████░░░  advanced
+```
+
+<sub>ci/cd · image hardening · service discovery · linux ops</sub>
+
+</td>
+</tr>
+<tr><td colspan="2"><sub>&nbsp;</sub></td></tr>
+<tr>
+<td width="50%" valign="top">
+
+<sub>`╴╴╴╴╴╴ CLOUD & OBSERVABILITY ╴╴╴╴╴╴`</sub>
+
+```
+oci       ████████████████  expert
+aws       ██████████░░░░░░  proficient
+do        █████████████░░░  advanced
+grafana   █████████████░░░  advanced
+prom      █████████████░░░  advanced
+otel      ██████████░░░░░░  learning
+```
+
+<sub>vpn · cost optimization · backup & ha · vulnerability lifecycle</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<sub>`╴╴╴╴╴╴ LANGUAGES & DATA ╴╴╴╴╴╴`</sub>
+
+```
+bash      ████████████████  expert
+python    █████████████░░░  advanced
+postgres  █████████████░░░  advanced
+mysql     █████████████░░░  advanced
+ts        ██████████░░░░░░  proficient
+tf/sklearn██████████░░░░░░  proficient
+```
+
+<sub>automation · perf tuning · ml research (cnn / classification)</sub>
+
+</td>
+</tr>
+</table>
+
+<br />
+
+```
+╔═══ // 05 ─ DEPLOYMENTS ═════════════════════════════════════════════════════╗
+```
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
+
+<sub>`┌─ ROLE ──────────────────────────────────┐`</sub>
+
+### Network Manager
+
+<sub>**ShamFuture ISP** &nbsp;·&nbsp; `2015 → present` &nbsp;·&nbsp; Azaz, SY</sub>
+
+`◍` Architect ISP-grade wired & wireless infra across multi-site deployments
+`◍` Engineer **MikroTik** routing — PPPoE, traffic engineering, QoS
+`◍` Deploy **Huawei / Cisco** L2/L3 with VLAN, STP/RSTP, ACL, redundancy
+`◍` Plan high-capacity wireless backhaul — throughput up, latency down
+`◍` Run Linux server & datacenter ops — hardening, monitoring, continuity
+
+<sub>`└─────────────────────────────────────────┘`</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<sub>`┌─ ROLE ──────────────────────────────────┐`</sub>
+
+### DevOps Engineer
+
+<sub>**Safee** &nbsp;·&nbsp; `Feb 2023 → Sep 2024` &nbsp;·&nbsp; Gaziantep, TR</sub>
+
+`◍` Built production container orchestration with **Nomad + Consul**
+`◍` Automated CI/CD with **GitHub Actions** — slashed manual deploy effort
+`◍` Hardened **Docker** images & managed vulnerability lifecycle
+`◍` Tuned **OCI** for performance + cost · administered **PostgreSQL** HA
+`◍` Authored **Bash / Python** automation · ran infra security assessments
+
+<sub>`└─────────────────────────────────────────┘`</sub>
+
+</td>
+</tr>
+</table>
+
+<br />
+
+```
+╔═══ // 06 ─ RESEARCH ════════════════════════════════════════════════════════╗
+```
+
+<table align="center" width="100%">
+<tr>
+<td valign="top">
+
+`◢` &nbsp; **Comparative Study of Deep Learning for Mask Detection**
+<sub>&nbsp;&nbsp;&nbsp;&nbsp;`2022` &nbsp;·&nbsp; ICAENS 2022, Konya, Turkey</sub>
+
+`◢` &nbsp; **CNN Hyperparameter Optimization via Random Search for Image Classification**
+<sub>&nbsp;&nbsp;&nbsp;&nbsp;`2022` &nbsp;·&nbsp; 6th ISIATS — Innovative Approaches in Smart Technologies</sub>
+
+`◢` &nbsp; **Face Mask Detection Using Deep Learning for Public Places**
+<sub>&nbsp;&nbsp;&nbsp;&nbsp;`2022` &nbsp;·&nbsp; 6th ISIATS — Innovative Approaches in Smart Technologies</sub>
+
+</td>
+</tr>
+</table>
+
+<br />
+
+```
+╚═════════════════════════════════════════════════════════════════════════════╝
+```
+
+<p align="center">
+  <sub>
+    <code>tajeddin.eng@gmail.com</code>
+    &nbsp;·&nbsp;
+    <code>+3 GMT</code>
+  </sub>
+</p>
+
+<p align="center">
+  <sub><i>infrastructure is the backbone of everything digital.</i></sub>
+</p>
