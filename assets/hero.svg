@@ -26,7 +26,7 @@
   </g>
 
   <!-- top meta strip -->
-  <text x="60" y="58" font-family="'JetBrains Mono', ui-monospace, monospace" font-size="11" fill="#565f89" letter-spacing="3.6">NODE_01 · AZAZ · SY · 36.59°N 37.05°E · STATUS ONLINE · UPTIME 10Y+</text>
+  <text x="60" y="58" font-family="'JetBrains Mono', ui-monospace, monospace" font-size="11" fill="#565f89" letter-spacing="3.6">NODE_01 · Aleppo · SY · 36.59°N 37.05°E · STATUS ONLINE · UPTIME 10Y+</text>
 
   <!-- ledger line -->
   <line x1="60" y1="78" x2="1140" y2="78" stroke="#292e42" stroke-width="1"/>
